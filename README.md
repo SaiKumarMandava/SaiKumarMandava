@@ -1,6 +1,6 @@
 # Hello, I'm Sai Kumar Mandava
 
-I'm a passionate Full-Stack Developer with expertise in both web and mobile application development. I work extensively with the **MERN Stack**, **Django**, **React Native**, and robust tooling like **Redux**, **Firebase**, **Apidog**, and cloud platforms like **DigitalOcean**,**Cloudflare**,**AWS Amplify**,**Firebase**. I’m always on the lookout for exciting, scalable tech to explore and build real-world solutions with clean, efficient code.
+I'm a passionate Full-Stack Developer with expertise in both web and mobile application development. I work extensively with the **MERN Stack**, **React Native**, and robust tooling like **Redux**, **Firebase**, **Apidog**, and cloud platforms like **DigitalOcean**,**Cloudflare**,**AWS Amplify**,**Firebase**. I’m always on the lookout for exciting, scalable tech to explore and build real-world solutions with clean, efficient code.
 
 ---
 ---
